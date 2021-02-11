@@ -1,0 +1,17 @@
+.taskCard{
+    width: 20rem;
+    height: 22rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin: 1rem;
+   
+}
+.textCard {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: space-around;
+    color: rgb(65, 66, 80);
+}

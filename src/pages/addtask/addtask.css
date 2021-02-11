@@ -1,0 +1,28 @@
+.addTaskC {
+  width: 80%;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+}
+.addTaskC h1 {
+  color: rgb(59, 216, 143);
+}
+.mylistcard {
+  width: 60%;
+  height: 65%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+  margin: 1rem 0 1rem 0;
+}
+
+.sous-card {
+  width: 40%;
+  height: 90%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
